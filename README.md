@@ -1,9 +1,7 @@
 # Sentiment-Analysis
-Dear Sir/Mam,
 
-Thank you for giving me this oppurtunity for doing Data-Science Project.
 
-Here i am explaning how i divided my solution and reached to particular solution.
+Here i am explaning how i divided my Project and reached to particular solution.
 
 Step 1:
 
@@ -30,7 +28,7 @@ Step 4:(Shortening the code)
 
 => HOW TO RUN PY FILE:
 
-You can run it in Jupyter Notebook or any latest version of idle. Also you also need to install some libraries(textblob) before running the program.  
+You can run it in Jupyter Notebook or any latest version of idle or google collab. Also you also need to install some libraries(textblob) before running the program.  
 
 
 Thank You
